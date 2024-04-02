@@ -7,7 +7,7 @@ public class array5_another {
 
 		int[] scores = {20, 30, 40, 50, 80};
 		for (int value : scores) {
-			System.out.println(value);
+			System.out.println(value);//ループ変数や添え字が無くすっきりする
 		}
 	}
 
